@@ -15,7 +15,7 @@ The principal advantatge of this application is that has the same funcionalities
 as Tableau, howerver it is cost free tool. 
 
 I can't share the project and neither the data because it's a sesitive data case. 
-**See the video demo attached in order to know more about the app**
+
 
 
 ![VIS2](https://user-images.githubusercontent.com/117287988/200185599-6d151c52-02c5-4f82-8306-c0a82f87f82a.png)
