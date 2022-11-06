@@ -13,6 +13,7 @@ observed survival plot and relative survival plot and also both of them together
 
 I can't share the project and neither the data because it's a sensable data case. 
 
-Warning: you need to download the video because the size it a litel bit big. 
+
+
 
  
