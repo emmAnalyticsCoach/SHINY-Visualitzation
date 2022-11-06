@@ -17,9 +17,5 @@ as Tableau, howerver it is cost free tool.
 I can't share the project and neither the data because it's a sesitive data case. 
 **See the video demo attached**
 
-![Screenshot](https://github.com/emmAnalyticsCoach/SHINY-Visualitzation/blob/main/shiny_presentation.pdf)
+![Screenshot]([https://github.com/emmAnalyticsCoach/SHINY-Visualitzation/blob/main/shiny_presentation.pdf](https://github.com/emmAnalyticsCoach/SHINY-Visualitzation/blob/main/Screen%20Shot%202022-11-06%20at%2014.55.41.png))
 
- <p align="center">
-  <img src="[your_relative_path_here](https://github.com/emmAnalyticsCoach/SHINY-Visualitzation/blob/main/Screen%20Shot%202022-11-06%20at%2014.55.41.png)" width="350" title="hover text">
-  <img src="[your_relative_path_here_number_2_large_name](https://github.com/emmAnalyticsCoach/SHINY-Visualitzation/blob/main/Screen%20Shot%202022-11-06%20at%2014.55.41.png)" width="350" alt="accessibility text">
-</p>
