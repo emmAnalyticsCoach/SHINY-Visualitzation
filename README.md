@@ -11,7 +11,5 @@ origin's patients, type of procediments that they used and etcetera.
 Moreover, there are one survival's analysis with the table, 
 observed survival plot and relative survival plot and also both of them together. 
 
-The number of dataset is about 66000 individuals with several variables and every month 
-this data was upgrated with new information. 
 I can't share the project and neither the data because it's a sensable data case. 
  
