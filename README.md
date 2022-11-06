@@ -15,8 +15,9 @@ The principal advantatge of this application is that has the same funcionalities
 as Tableau, howerver it is cost free tool. 
 
 I can't share the project and neither the data because it's a sesitive data case. 
-**See the video demo attached**
-![image](https://user-images.githubusercontent.com/117287988/200185529-9f3a18c8-fcb1-471a-8cfb-adc6ef9f7b21.png)
+**See the video demo attached in order to know more about the app**
 
-![Screenshot]([https://github.com/emmAnalyticsCoach/SHINY-Visualitzation/blob/main/shiny_presentation.pdf](https://github.com/emmAnalyticsCoach/SHINY-Visualitzation/blob/main/Screen%20Shot%202022-11-06%20at%2014.55.41.png))
 
+![VIS2](https://user-images.githubusercontent.com/117287988/200185599-6d151c52-02c5-4f82-8306-c0a82f87f82a.png)
+![VIS3](https://user-images.githubusercontent.com/117287988/200185620-fc526a66-452f-4209-86bc-1fbea876f380.png)
+![VIS4](https://user-images.githubusercontent.com/117287988/200185622-5ca190a2-0a12-45da-ba87-8653041a8763.png)
